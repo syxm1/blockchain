@@ -21,8 +21,8 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd basic-blockchain
+   git clone https://github.com/syxm1/blockchain
+   cd blockchain
    ```
 
 2. Install the required dependencies:
@@ -44,10 +44,6 @@ To ensure everything is working correctly, run the unit tests located in the `te
 ```
 python -m unittest discover -s tests
 ```
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
 ## License
 
